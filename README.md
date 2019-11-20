@@ -1,10 +1,10 @@
 # PHP JSON-API
 
-[![Build Status](https://img.shields.io/travis/tobscure/json-api/master.svg?style=flat)](https://travis-ci.org/tobscure/json-api)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/tobscure/json-api.svg?style=flat)](https://scrutinizer-ci.com/g/tobscure/json-api/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/tobscure/json-api.svg?style=flat)](https://scrutinizer-ci.com/g/tobscure/json-api)
-[![Pre Release](https://img.shields.io/packagist/vpre/tobscure/json-api.svg?style=flat)](https://github.com/tobscure/json-api/releases)
-[![License](https://img.shields.io/packagist/l/tobscure/json-api.svg?style=flat)](https://packagist.org/packages/tobscure/json-api)
+[![Build Status](https://img.shields.io/travis/bavix/json-api/master.svg?style=flat)](https://travis-ci.org/bavix/json-api)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/bavix/json-api.svg?style=flat)](https://scrutinizer-ci.com/g/bavix/json-api/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/bavix/json-api.svg?style=flat)](https://scrutinizer-ci.com/g/bavix/json-api)
+[![Pre Release](https://img.shields.io/packagist/vpre/bavix/json-api.svg?style=flat)](https://github.com/bavix/json-api/releases)
+[![License](https://img.shields.io/packagist/l/bavix/json-api.svg?style=flat)](https://packagist.org/packages/bavix/json-api)
 
 [JSON-API](http://jsonapi.org) responses in PHP.
 
@@ -15,7 +15,7 @@ Works with version 1.0 of the spec.
 via Composer:
 
 ```bash
-composer require tobscure/json-api
+composer require bavix/json-api
 ```
 
 ## Usage
